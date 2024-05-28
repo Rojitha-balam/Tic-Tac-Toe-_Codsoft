@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-_Codsoft
+Tic Tac Toe is a game played between two players(you & ai), traditionally using X and O markers on a 3x3 grid. The objective is to get three of your symbols in a row, either horizontally, vertically, or diagonally, before your opponent does.
